@@ -7,10 +7,10 @@ client = discord.Client()
 ### 배너 카테고리에 역할설정 ! ! ! ###
 
 token = '' #봇토큰
-category_id =  #배너채널 생성되는 카테고리 ID
-banner_role = '' #배너역할 이름
-logchannel_id =  #개설 로그채널 ID
-webhookcnl_id =  #받아온 웹훅 보내주는 채널ID
+category_id =  791889400698765312
+banner_role = '' 🔰：BANNER
+logchannel_id =  792962056524398592
+webhookcnl_id =  792962056524398592
 
 @client.event
 async def on_ready():
